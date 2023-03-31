@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Titulo</th>
+            <th>Autor</th>
+            <th>Año de publicación</th>
+            <th>Enlace a Amazon</th>
+        </tr>
+        <tr>
+            <td>EL SUTIL ARTE DE QUE (CASI TODO) TE IMPORTE UNA MIERDA</td>
+            <td>Mark Manson</td>
+            <td>2018</td>
+            <td>https://www.amazon.es/SUTIL-ARTE-IMPORTE-MIERDA-HARPERCOLLINS/dp/8491392289/ref=zg_bs_books_sccl_1/258-6981745-2754868?psc=1</td>
+        </tr>
+        <tr>
+            <td>ómo hacer que te pasen cosas buenas</td>
+            <td>Marian Rojas Estapé</td> 
+            <td>2018</td> 
+            <td>https://www.amazon.es/C%C3%B3mo-hacer-pasen-cosas-buenas/dp/8467053305/ref=zg_bs_books_sccl_3/258-6981745-2754868?psc=1</td>
+        </tr>
+        <tr>
+            <td>Hábitos atómicos</td>
+            <td>James Clear</td>
+            <td>2020</td>
+            <td>https://www.amazon.es/H%C3%A1bitos-at%C3%B3micos-Autoconocimiento-James-Clear/dp/8418118032/ref=zg_bs_books_sccl_6/258-6981745-2754868?psc=1</td>
+        </tr>
+    </table>
+</body>
+</html>
